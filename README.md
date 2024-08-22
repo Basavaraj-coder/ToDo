@@ -1,7 +1,14 @@
 # todo_app
 
 ### A new Flutter project, with concepts app router and Provider Statemanagment technique.
+### UI components like:
+#### List
+#### Icons
+#### Floating action Button
 
+### Future enhancements-
+#### To Add BLOCK Statemanagement 
+#### To add Alarm
 ## Getting Started
 
 This project is a starting point for a Flutter application.
